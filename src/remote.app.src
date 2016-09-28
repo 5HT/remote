@@ -1,0 +1,7 @@
+{application, remote,
+ [{description, "N2O Remote Protocol Server"},
+  {vsn, "1.0"},
+  {registered, []},
+  {applications, [kernel,stdlib]},
+  {mod, { remote, []}}
+  ]}.
