@@ -1,4 +1,4 @@
--name tcp@127.0.0.1
+-name remote@127.0.0.1
 -setcookie runner
 +pc unicode
 +K true

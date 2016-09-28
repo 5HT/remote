@@ -5,6 +5,9 @@ Due to multiple requests this project was started to provide
 robust Protocol Relay for writing N2O applications in other languages.
 Sponsored languages are: Perl, JavaScript, Haskell, C/C++.
 
+Architecture
+------------
+
 <img src="http://5ht.co/img/N2O-REMOTE.svg" width=600>
 
 Sample Node.js N2O Application
